@@ -68,7 +68,7 @@ To enhance the user experience, the application integrates the **TMDb API** to f
 
 # 🚀 Live Demo
 
-> **[Click here](https://your-next-binge.onrender.com)**
+[Launch Your Next Binge](https://your-next-binge.onrender.com)
 
 ---
 
@@ -113,7 +113,7 @@ movie_recommendation/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-next-binge.git
+git clone https://github.com/sidhi02/your-next-binge.git
 ```
 
 ### 2️⃣ Navigate to the project
@@ -227,7 +227,7 @@ The recommendation engine is trained on movie metadata containing information su
 
 ---
 
-# 🙏 Acknowledgements
+# Acknowledgements
 
 - TMDb API
 - Flask
@@ -249,7 +249,5 @@ The recommendation engine is trained on movie metadata containing information su
 <div align="center">
 
 ### ⭐ If you found this project useful, consider giving it a Star!
-
-Made with ❤️ using **Python, Flask & Machine Learning**
 
 </div>
