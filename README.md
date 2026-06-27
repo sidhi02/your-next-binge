@@ -2,6 +2,7 @@
 
 # 🎬 Your Next Binge
 
+</div>
 <div align="center">
 
 ## Discover your next favorite movie through intelligent recommendations.
